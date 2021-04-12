@@ -12,7 +12,7 @@ ___
 
 ### Installation
 - Clone the repo and navigate to it.
-- Create a predefined Python3.7 conda environment by `conda env create -f env/environment.yml`.
+- Create a predefined Python3.7 conda environment by `conda env create -f environment.yml`.
 - Run `pip install .` to install remaining dependencies and add the package to the Python path.
 
 ### Usage
