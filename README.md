@@ -1,6 +1,9 @@
 # Siamese-RNN-Self-Attention
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.76](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-373/)
+
+___
+
 Code for the purposes of Siamese Recurrent Neural Network with a Self-Attention Mechanism for Bioactivity Prediction.
 ___
 
