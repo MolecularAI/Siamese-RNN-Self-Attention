@@ -351,4 +351,4 @@ dependencies:
     - svgutils==0.3.1
     - tabulate==0.8.5
     - tinycss2==1.0.2
-prefix: /home/kdqm927/miniconda3/envs/siamese
+prefix: /home/.../miniconda3/envs/siamese
