@@ -56,7 +56,7 @@ def create_slurm_file(job_name, environment, work_dir = None, email = None, save
     : job_name (str): name given to the current job
     : environment (str): environment with Python packages
     : work_dir (str): current working directory
-    : email (str): user email, username@astrazeneca.com
+    : email (str): user email, username@company.com
     : save_location (str): specify where the SLURM .sh file is to be saved, otherwise saved in default folder
     : memory (int): memory to use in GB
     : cpu_per_task (int): CPUs required
